@@ -1,1 +1,33 @@
 
+<channel>
+
+<name>[B][COLOR aquamarine]Top 10 Filmes[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/imdbfilme/raw/main/imdbfilme</externallink>
+
+<thumbnail></thumbnail>
+
+<fanart></fanart>
+
+<info>[COLOR aquamarine]Os 10 filmes com maior pontuação no IMDb[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine][/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/imdbserie/raw/main/imdbserie</externallink>
+
+<thumbnail></thumbnail>
+
+<fanart></fanart>
+
+<info>[COLOR aquamarine]As 10 séries com maior pontuação no IMDb[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
